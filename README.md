@@ -7,6 +7,6 @@ This is the demo git repository for the class.
 
 * Maybe add disclaimer that it's a work-in-progress, etc. 
 
-...{r}
+```{r}
 print('some demo r code')
-...
+```
